@@ -8,9 +8,15 @@
 
 1. Gong X, Feng D, Xu K, et al. **Goal-Conditioned On-Policy Reinforcement Learning**[C]//The Thirty-eighth Annual Conference on Neural Information Processing Systems. **NeurIPS, 2024**. [[Paper]](https://openreview.net/forum?id=KP7EUORJYI) [[Code]](https://github.com/GongXudong/GCPO)
 
+    `TL;DR: Propose an on-policy goal-conditioned reinforcement learning framework, GCPO, which is applicable to both Markovian and non-Markovian reward problems.`
+
 2. Zhang T, Eysenbach B, Salakhutdinov R, et al. **C-Planning: An Automatic Curriculum for Learning Goal-Reaching Tasks**[C]//International Conference on Learning Representations. **ICLR, 2022**. [[Paper]](https://openreview.net/forum?id=h6OdyxD1bxs)
 
+    `TL;DR: Propose an algorithm to solve the distant goal-reaching task by using planning at training time to automatically generate a curriculum of intermediate states.`
+
 3. Pitis S, Chan H, Zhao S, et al. **Maximum entropy gain exploration for long horizon multi-goal reinforcement learning**[C]//International Conference on Machine Learning. PMLR, 2020: 7750-7761. **ICML, 2020**. [[Paper]](http://proceedings.mlr.press/v119/pitis20a/pitis20a.pdf)
+
+    `TL;DR: Propose a method to set the agent's own intrinsic goals that maximize the entropy of the historical achieved goal distribution.`
 
 4. Florensa C, Held D, Geng X, et al. **Automatic goal generation for reinforcement learning agents**[C]//International conference on machine learning. PMLR, 2018: 1515-1528. **ICML, 2018**. [[Paper]](http://proceedings.mlr.press/v80/florensa18a/florensa18a.pdf)
 
@@ -34,7 +40,7 @@
 
 9. Nair A V, Pong V, Dalal M, et al. **Visual reinforcement learning with imagined goals**[C]. Advances in neural information processing systems, 2018, 31. **NeurIPS, 2018**. [[Paper]](https://proceedings.neurips.cc/paper/2018/file/7ec69dd44416c46745f6edd947b470cd-Paper.pdf)
 
-10. Niu Y, Jin S, Zhang Z, et al. **Goats: Goal sampling adaptation for scooping with curriculum reinforcement learning**[C]//2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2023: 1023-1030. **IROS, 2023**. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10342221)
+    `TL;DR: Propose an algorithm that acquires general-purpose skills by combining unsupervised representation learning and reinforcement learning of goal-conditioned policies.`
 
 ## 3. Sub-goal Generation
 
@@ -49,6 +55,18 @@
 ## 4. Representation Learning
 
 1. Duan Y, Cui G, Zhu H. **Exploring the Edges of Latent State Clusters for Goal-Conditioned Reinforcement Learning**[C]//The Thirty-eighth Annual Conference on Neural Information Processing Systems. **NeurIPS, 2024**. [[Paper]](https://openreview.net/forum?id=9hKN99RNdR) [[Code]](https://github.com/RU-Automated-Reasoning-Group/CE2)
+
+2. Steccanella L, Jonsson A. **State representation learning for goal-conditioned reinforcement learning**[C]//Joint European Conference on Machine Learning and Knowledge Discovery in Databases. Cham: Springer Nature Switzerland, 2022: 84-99. **ECML-PKDD, 2022**. [[Paper]](https://arxiv.org/pdf/2205.01965)
+
+    `TL;DR: Propose a self-supervised method to learn an embedding space where distances between pairs of embedded states correspond to the minimum number of actions needed to transition between them.`
+
+3. Cai S, Wang Z, Ma X, et al. **Open-world multi-task control through goal-aware representation learning and adaptive horizon prediction**[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023: 13734-13744. **CVPR, 2023**. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Cai_Open-World_Multi-Task_Control_Through_Goal-Aware_Representation_Learning_and_Adaptive_Horizon_CVPR_2023_paper.pdf)
+
+    `TL;DR: Propose (1) Goal-Sensitive Backbone (GSB) for the policy to encourage the emergence of goal-relevant visual state representations (Core Idea: fusing condition information into the backbone layer by layer); (2) make the policy condition on an adaptive horizon prediction module to help alleviate the learning uncertainty brought by the non-stationary dynamics.`
+
+4. Hansen-Estruch P, Zhang A, Nair A, et al. **Bisimulation makes analogies in goal-conditioned reinforcement learning**[C]//International Conference on Machine Learning. PMLR, 2022: 8407-8426. **ICML, 2022**. [[Paper]](https://proceedings.mlr.press/v162/hansen-estruch22a/hansen-estruch22a.pdf)
+
+    `TL;DR: Propose a new form of state abstraction that captures functional equivariance, allowing for the reuse of skills to achieve new goals.`
 
 ## 5. Offline
 
@@ -115,3 +133,7 @@
 2. Shah D, Eysenbach B, Rhinehart N, et al. **Rapid Exploration for Open-World Navigation with Latent Goal Models**[C]//Conference on Robot Learning. PMLR, 2022: 674-684. **CORL, 2022**. [[Paper]](https://proceedings.mlr.press/v164/shah22a.html)
 
     `TL;DR: Employ an information bottleneck to regularize the learned policy, such to achieve (i) a compact visual representation of goals, (ii) improved generalization capabilities, and (iii) a mechanism for sampling feasible goals for exploration.`
+
+3. Niu Y, Jin S, Zhang Z, et al. **Goats: Goal sampling adaptation for scooping with curriculum reinforcement learning**[C]//2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2023: 1023-1030. **IROS, 2023**. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10342221)
+
+    `TL;DR: Solve the task of robotic water scooping.`
