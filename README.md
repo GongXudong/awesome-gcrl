@@ -28,7 +28,19 @@
 
 ### ICLR 2025
 
-TBD
+1. Gong X, Feng D, Xu K, et al. **VVC-Gym**: A Fixed-Wing UAV Reinforcement Learning Environment for Multi-Goal Long-Horizon Problems[C]//The Thirteenth International Conference on Learning Representations. [[Paper]](https://openreview.net/pdf?id=5xSRg3eYZz) [[Code]](https://github.com/GongXudong/fly-craft)
+
+2. Park S, Frans K, Eysenbach B, et al. **Ogbench**: Benchmarking offline goal-conditioned rl[C]//The Thirteenth International Conference on Learning Representations. [[Paper]](https://openreview.net/forum?id=M992mjgKzI) [[Code]](https://github.com/seohongpark/ogbench)
+
+3. Bortkiewicz M, Pałucki W, Myers V, et al. Accelerating Goal-Conditioned Reinforcement Learning Algorithms and Research[C]//The Thirteenth International Conference on Learning Representations. [[Paper]](https://openreview.net/forum?id=4gaySj8kvX) [[Code]](https://github.com/MichalBortkiewicz/JaxGCRL)
+
+4. Chuck C, Feng F, Qi C, et al. Null Counterfactual Factor Interactions for Goal-Conditioned Reinforcement Learning[C]//The Thirteenth International Conference on Learning Representations. [[Paper]](https://openreview.net/forum?id=2uPZ4aX1VV)
+
+5. Luo Y, Du Y. Grounding Video Models to Actions through Goal Conditioned Exploration[C]//The Thirteenth International Conference on Learning Representations. [[Paper]](https://openreview.net/forum?id=G6dMvRuhFr)
+
+### ICML 2025
+
+1. Gong X, Yang S, Feng D, et al. **Improving the Continuity of Goal-Achievement Ability via Policy Self-Regularization for Goal-Conditioned Reinforcement Learning**[C]//Forty-second International Conference on Machine Learning. **ICML, 2025**. [[Paper]]() [[Code]](https://github.com/GongXudong/fly-craft-examples)
 
 
 ## GCRL environments
