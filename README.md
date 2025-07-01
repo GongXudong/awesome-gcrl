@@ -2,6 +2,10 @@
 
 ## Research Papers
 
+### ICLR 2024
+
+1. Zheng C, Eysenbach B, Walke H R, et al. **Stabilizing Contrastive RL: Techniques for Robotic Goal Reaching from Offline Data**[C]//The Twelfth International Conference on Learning Representations. [[Paper]](https://openreview.net/forum?id=Xkf2EBj4w3)
+
 ### ICML 2024
 
 1. Zheng S, Bai C, Yang Z, et al. **How Does Goal Relabeling Improve Sample Efficiency?**[C]//Forty-first International Conference on Machine Learning. 2024. [[Paper]](https://openreview.net/forum?id=99UFZV2VpU)
@@ -11,6 +15,10 @@
 3. Jain V, Ravanbakhsh S. **Learning to Reach Goals via Diffusion**[C]//Forty-first International Conference on Machine Learning. 2024. [[Paper]](https://openreview.net/forum?id=9jMoHuqjfg)
 
 4. Na H, Moon I. **LAGMA: LAtent Goal-guided Multi-Agent Reinforcement Learning**[C]//Forty-first International Conference on Machine Learning. 2024. [[Paper]](https://openreview.net/forum?id=gtYdvSGMYV)
+
+5. Myers V, Zheng C, Dragan A, et al. **Learning temporal distances: contrastive successor features can provide a metric structure for decision-making**[C]//Forty-first International Conference on Machine Learning. 2024. 37076-37096. [[Paper]](https://openreview.net/forum?id=xQiYCmDrjp)
+
+6. Xudong G, Dawei F, Xu K, et al. "**Iterative Regularized Policy Optimization with Imperfect Demonstrations**." Forty-first International Conference on Machine Learning. 2024. [[Paper]](https://openreview.net/pdf?id=Gp5F6qzwGK) [[Code]](https://github.com/GongXudong/IRPO)
 
 ### NeurIPS 2024
 
@@ -40,7 +48,7 @@
 
 ### ICML 2025
 
-1. Gong X, Yang S, Feng D, et al. **Improving the Continuity of Goal-Achievement Ability via Policy Self-Regularization for Goal-Conditioned Reinforcement Learning**[C]//Forty-second International Conference on Machine Learning. **ICML, 2025**. [[Paper]]() [[Code]](https://github.com/GongXudong/fly-craft-examples)
+1. Gong X, Yang S, Feng D, et al. **Improving the Continuity of Goal-Achievement Ability via Policy Self-Regularization for Goal-Conditioned Reinforcement Learning**[C]//Forty-second International Conference on Machine Learning. **ICML, 2025**. [[Paper]](https://openreview.net/forum?id=xPMDwGL1TT) [[Code]](https://github.com/GongXudong/fly-craft-examples)
 
 ## GCRL environments
 

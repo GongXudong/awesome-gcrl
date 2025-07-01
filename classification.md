@@ -74,7 +74,9 @@
 
 2. Yang R, Yong L, Ma X, et al. **What is essential for unseen goal generalization of offline goal-conditioned rl?**[C]//International Conference on Machine Learning. PMLR, 2023: 39543-39571. **ICML, 2023**. [[Paper]](https://proceedings.mlr.press/v202/yang23q/yang23q.pdf) [[Code]](https://github.com/YangRui2015/GOAT)
 
-## 6. Supervised
+3. Zheng C, Eysenbach B, Walke H R, et al. **Stabilizing Contrastive RL: Techniques for Robotic Goal Reaching from Offline Data**[C]//The Twelfth International Conference on Learning Representations. [[Paper]](https://openreview.net/forum?id=Xkf2EBj4w3)
+
+## 6. Supervised / Imitation
 
 1. Ghosh D, Gupta A, Reddy A, et al. **Learning to Reach Goals via Iterated Supervised Learning**[C]//International Conference on Learning Representations. **ICLR, 2021**. [[Paper]](https://openreview.net/forum?id=rALA0Xo6yNJ) [[Code]](https://github.com/dibyaghosh/gcsl)
 
@@ -83,6 +85,14 @@
 3. Ding Y, Florensa C, Abbeel P, et al. **Goal-conditioned imitation learning**[C]. Advances in neural information processing systems, 2019, 32. **NeurIPS, 2019**. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2019/file/c8d3a760ebab631565f8509d84b3b3f1-Paper.pdf) [[Code]](https://sites.google.com/view/goalconditioned-il/)
 
     `TL;DR: GAIL + HER`
+
+4. Ghosh D, Gupta A, Reddy A, et al. Learning to Reach Goals via Iterated Supervised Learning[C]//International Conference on Learning Representations.
+
+    `TL;DR: Alternate between sampling trajectories and  Goal-conditioned behavioral cloning (Goal-Conditioned Supervised Learning, GCSL)`
+
+5. Eysenbach B, Udatha S, Salakhutdinov R R, et al. **Imitating past successes can be very suboptimal**[C]. Advances in Neural Information Processing Systems, 2022, 35: 6047-6059.
+
+    `TL;DR: Normalized GCSL`
 
 ## 7. Unsupervised RL / Pre-train
 
@@ -125,6 +135,10 @@
 1. Hartikainen K, Geng X, Haarnoja T, et al. **Dynamical Distance Learning for Semi-Supervised and Unsupervised Skill Discovery**[C]//International Conference on Learning Representations. **ICLR, 2020**. [[Paper]](https://openreview.net/forum?id=H1lmhaVtvr)
 
 2. Wang T, Torralba A, Isola P, et al. **Optimal goal-reaching reinforcement learning via quasimetric learning**[C]//International Conference on Machine Learning. PMLR, 2023: 36411-36430. **ICML, 2023**. [[Paper]](https://proceedings.mlr.press/v202/wang23al.html)
+
+3. Liu B, Feng Y, Liu Q, et al. **Metric residual network for sample efficient goal-conditioned reinforcement learning**[C]//Proceedings of the AAAI Conference on Artificial Intelligence. **AAAI, 2023**, 37(7): 8799-8806. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26058)
+
+4. Myers V, Zheng C, Dragan A, et al. **Learning temporal distances: contrastive successor features can provide a metric structure for decision-making**[C]//Proceedings of the 41st International Conference on Machine Learning. **ICML, 2024**: 37076-37096.
 
 ## 12. Applications
 
