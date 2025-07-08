@@ -76,6 +76,10 @@
 
 3. Zheng C, Eysenbach B, Walke H R, et al. **Stabilizing Contrastive RL: Techniques for Robotic Goal Reaching from Offline Data**[C]//The Twelfth International Conference on Learning Representations. [[Paper]](https://openreview.net/forum?id=Xkf2EBj4w3)
 
+4. Ke K, Lin Q, Liu Z, et al. Conservative Offline Goal-Conditioned Implicit V-Learning[C]//Forty-second International Conference on Machine Learning. **ICML, 2025**. [[Paper]](https://openreview.net/forum?id=5ryn8tYWHL)
+
+5. He J, Li K, Zang Y, et al. Goal-Oriented Skill Abstraction for Offline Multi-Task Reinforcement Learning[C]//Forty-second International Conference on Machine Learning. **ICML, 2025**. [[Paper]](https://openreview.net/forum?id=ZeetWz8zbG)
+
 ## 6. Supervised / Imitation
 
 1. Ghosh D, Gupta A, Reddy A, et al. **Learning to Reach Goals via Iterated Supervised Learning**[C]//International Conference on Learning Representations. **ICLR, 2021**. [[Paper]](https://openreview.net/forum?id=rALA0Xo6yNJ) [[Code]](https://github.com/dibyaghosh/gcsl)
@@ -107,6 +111,8 @@
 ## 8. Model-Based
 
 1. Hu E S, Chang R, Rybkin O, et al. **Planning Goals for Exploration**[C]//The Eleventh International Conference on Learning Representations. **ICLR, 2023**. [[Paper]](https://openreview.net/forum?id=6qeBuZSo7Pr)
+
+2. Richens J, Everitt T, Abel D. General agents need world models[C]//Forty-second International Conference on Machine Learning. [[Paper]](https://openreview.net/forum?id=dlIoumNiXt)
 
 ## 9. Exploration
 

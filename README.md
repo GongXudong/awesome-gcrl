@@ -50,6 +50,12 @@
 
 1. Gong X, Yang S, Feng D, et al. **Improving the Continuity of Goal-Achievement Ability via Policy Self-Regularization for Goal-Conditioned Reinforcement Learning**[C]//Forty-second International Conference on Machine Learning. **ICML, 2025**. [[Paper]](https://openreview.net/forum?id=xPMDwGL1TT) [[Code]](https://github.com/GongXudong/fly-craft-examples)
 
+2. Ke K, Lin Q, Liu Z, et al. Conservative Offline Goal-Conditioned Implicit V-Learning[C]//Forty-second International Conference on Machine Learning. [[Paper]](https://openreview.net/forum?id=5ryn8tYWHL)
+
+3. He J, Li K, Zang Y, et al. Goal-Oriented Skill Abstraction for Offline Multi-Task Reinforcement Learning[C]//Forty-second International Conference on Machine Learning. [[Paper]](https://openreview.net/forum?id=ZeetWz8zbG)
+
+4. Richens J, Everitt T, Abel D. General agents need world models[C]//Forty-second International Conference on Machine Learning. [[Paper]](https://openreview.net/forum?id=dlIoumNiXt)
+
 ## GCRL environments
 
 1. Gong X, Feng D, Xu K, et al. **VVC-Gym**: A Fixed-Wing UAV Reinforcement Learning Environment for Multi-Goal Long-Horizon Problems[C]//International Conference on Learning Representations. **ICLR, 2025**. [[Paper]](https://openreview.net/pdf?id=5xSRg3eYZz) [[Code]](https://github.com/GongXudong/fly-craft)
