@@ -60,7 +60,13 @@
 
 5. Wu J, Wang Y, Li L, et al. **Goal Conditioned Reinforcement Learning for Photo Finishing Tuning**[C]//The Thirty-eighth Annual Conference on Neural Information Processing Systems. 2024. [[Paper]](https://openreview.net/forum?id=4kVHI2uXRE)
 
-6. Molinaro G, Colas C, Oudeyer P Y, et al. **Latent learning progress drives autonomous goal selection in human reinforcement learning**[C]. Advances in Neural Information Processing Systems, 2024, 37: 32251-32280. [[Paper]](https://openreview.net/forum?id=GbqzN9HiUC)
+6. Molinaro G, Colas C, Oudeyer P Y, et al. **Latent learning progress drives autonomous goal selection in human reinforcement learning**[J]. Advances in Neural Information Processing Systems, 2024, 37: 32251-32280. [[Paper]](https://openreview.net/forum?id=GbqzN9HiUC)
+
+7. Nath V, Slack D, Da J, et al. **Learning goal-conditioned representations for language reward models**[J]. Advances in Neural Information Processing Systems, 2024, 37: 117070-117108. [[Paper]](https://openreview.net/forum?id=Swh8LxuycA)
+
+8. Duan Y, Mao W, Zhu H. **Learning world models for unconstrained goal navigation**[J]. Advances in Neural Information Processing Systems, 2024, 37: 59236-59265. [[Paper]](https://openreview.net/forum?id=aYqTwcDlCG)
+
+9. Fan Y, Li J, Swaminathan A, et al. **How to solve contextual goal-oriented problems with offline datasets?**[J]. Advances in Neural Information Processing Systems, 2024, 37: 99433-99463. [[Paper]](https://openreview.net/forum?id=Ku31aRq3sW)
 
 ### ICML 2024
 
