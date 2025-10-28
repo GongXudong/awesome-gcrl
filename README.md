@@ -1,38 +1,54 @@
 # awesome-gcrl
 
+This repo lists research papers on **Goal-Conditioned Reinforcement Learning**.
+
 ## Research Papers
 
 ### ICLR 2026
+
+1. [Submitted to] **Test-time Offline Reinforcement Learning on Goal-related Experience** [[Paper]](https://arxiv.org/abs/2507.18809)
 
 ### NeurIPS 2025
 
 1. **Hyper-GoalNet: Goal-Conditioned Manipulation Policy Learning with HyperNetworks**
 
-2. **Planning without Search: Refining Frontier LLMs with Offline Goal-Conditioned RL**
+2. **Planning without Search: Refining Frontier LLMs with Offline Goal-Conditioned RL** [[Paper]](https://arxiv.org/abs/2505.18098)
 
 3. **1000 Layer Networks for Self-Supervised RL: Scaling Depth Can Enable New Goal-Reaching Capabilities** [[Paper]](http://arxiv.org/abs/2503.14858) [[Code]](https://github.com/wang-kevin3290/scaling-crl)
 
 4. **Offline Goal Conditioned Reinforcement Learning with Temporal Distance Representations**
 
-5. **Physics-informed Value Learner for Offline Goal-Conditioned Reinforcement Learning**
+5. **Physics-informed Value Learner for Offline Goal-Conditioned Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2509.06782)
 
-6. **GoalLadder: Incremental Goal Discovery with Vision-Language Models**
+6. **GoalLadder: Incremental Goal Discovery with Vision-Language Models** [[Paper]](https://arxiv.org/abs/2506.16396)
 
-7. **Option-aware Temporally Abstracted Value for Offline Goal-Conditioned Reinforcement Learning**
+7. **Option-aware Temporally Abstracted Value for Offline Goal-Conditioned Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2505.12737)
 
 8. **Open-World Drone Active Tracking with Goal-Centered Rewards**
 
-9. **Learning from Demonstrations via Capability-Aware Goal Sampling**
+9. **Learning from Demonstrations via Capability-Aware Goal Sampling** [[Paper]](https://herowanzhu.github.io/Cago.pdf)
+
+10. **Horizon Reduction Makes Offline RL Scalable** [[Paper]](https://arxiv.org/abs/2506.04168) [[Code]](https://github.com/seohongpark/horizon-reduction)
 
 ### ICML 2025
 
-1. Gong X, Yang S, Feng D, et al. **Improving the Continuity of Goal-Achievement Ability via Policy Self-Regularization for Goal-Conditioned Reinforcement Learning**[C]//Forty-second International Conference on Machine Learning. **ICML, 2025**. [[Paper]](https://openreview.net/forum?id=xPMDwGL1TT) [[Code]](https://github.com/GongXudong/fly-craft-examples)
+1. Amy Zhang, Benjamin Eysenbach. **[Tutorial] Generative AI Meets Reinforcement Learning**. [[Link]](https://generative-rl-tutorial.github.io/)
 
-2. Ke K, Lin Q, Liu Z, et al. **Conservative Offline Goal-Conditioned Implicit V-Learning**[C]//Forty-second International Conference on Machine Learning. [[Paper]](https://openreview.net/forum?id=5ryn8tYWHL)
+2. Gong X, Yang S, Feng D, et al. **Improving the Continuity of Goal-Achievement Ability via Policy Self-Regularization for Goal-Conditioned Reinforcement Learning**[C]//Forty-second International Conference on Machine Learning. **ICML, 2025**. [[Paper]](https://openreview.net/forum?id=xPMDwGL1TT) [[Code]](https://github.com/GongXudong/fly-craft-examples)
 
-3. He J, Li K, Zang Y, et al. **Goal-Oriented Skill Abstraction for Offline Multi-Task Reinforcement Learning**[C]//Forty-second International Conference on Machine Learning. [[Paper]](https://openreview.net/forum?id=ZeetWz8zbG)
+3. Ke K, Lin Q, Liu Z, et al. **Conservative Offline Goal-Conditioned Implicit V-Learning**[C]//Forty-second International Conference on Machine Learning. [[Paper]](https://openreview.net/forum?id=5ryn8tYWHL)
 
-4. Richens J, Everitt T, Abel D. **General agents need world models**[C]//Forty-second International Conference on Machine Learning. [[Paper]](https://openreview.net/forum?id=dlIoumNiXt)
+4. He J, Li K, Zang Y, et al. **Goal-Oriented Skill Abstraction for Offline Multi-Task Reinforcement Learning**[C]//Forty-second International Conference on Machine Learning. [[Paper]](https://openreview.net/forum?id=ZeetWz8zbG)
+
+5. Richens J, Everitt T, Abel D. **General agents need world models**[C]//Forty-second International Conference on Machine Learning. [[Paper]](https://openreview.net/forum?id=dlIoumNiXt)
+
+6. Wang V H, Wang T, Pajarinen J. **Hierarchical Reinforcement Learning with Uncertainty-Guided Diffusional Subgoals**[C]//Forty-second International Conference on Machine Learning. [[Paper]](https://openreview.net/forum?id=1YOYA2zN1j)
+
+7. Gaven L, Carta T, ROMAC C, et al. **MAGELLAN: Metacognitive predictions of learning progress guide autotelic LLM agents in large goal spaces**[C]//Forty-second International Conference on Machine Learning. [[Paper]](https://openreview.net/forum?id=hRMAo5N66M)
+
+8. Lo C, Roice K, Panahi P M, et al. **Goal-space planning with subgoal models**[J]. Journal of Machine Learning Research, 2024, 25(330): 1-57. [[Paper]](http://www.jmlr.org/papers/v25/24-0040.html)
+
+9. Baek S, Park J, Oh S, et al. **Graph-Assisted Stitching for Offline Hierarchical Reinforcement Learning**[C]//Forty-second International Conference on Machine Learning. [[Paper]](https://openreview.net/forum?id=73EwiOrN8W)
 
 ### ICLR 2025
 
@@ -85,6 +101,14 @@
 ### ICLR 2024
 
 1. Zheng C, Eysenbach B, Walke H R, et al. **Stabilizing Contrastive RL: Techniques for Robotic Goal Reaching from Offline Data**[C]//The Twelfth International Conference on Learning Representations. [[Paper]](https://openreview.net/forum?id=Xkf2EBj4w3)
+
+### ICLR 2023
+
+1. Zhu D, Li L E, Elhoseiny M. **Value Memory Graph: A Graph-Structured World Model for Offline Reinforcement Learning**[C]//The Eleventh International Conference on Learning Representations. [[Paper]](https://openreview.net/forum?id=UYcIheNY9Pf)
+
+### NeurIPS 2019
+
+1. Eysenbach B, Salakhutdinov R R, Levine S. **Search on the replay buffer: Bridging planning and reinforcement learning**[J]. Advances in neural information processing systems, 2019, 32. [[Paper]](https://proceedings.neurips.cc/paper/2019/hash/5c48ff18e0a47baaf81d8b8ea51eec92-Abstract.html)
 
 ## GCRL environments
 
