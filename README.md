@@ -6,29 +6,49 @@ This repo lists research papers on **Goal-Conditioned Reinforcement Learning**.
 
 ### ICLR 2026
 
-1. [Submitted to] **Test-time Offline Reinforcement Learning on Goal-related Experience** [[Paper]](https://arxiv.org/abs/2507.18809)
+1. **RD-HRL: Generating Reliable Sub-Goals for Long-Horizon Sparse-Reward Tasks** [[Paper]](https://openreview.net/forum?id=5E5sd3TWGD)
+
+2. **Scaling Goal-conditioned Reinforcement Learning with Multistep Quasimetric Distances** [[Paper]](https://openreview.net/forum?id=UElh7vzgKX)
+
+3. **Goal Reaching with Eikonal-Constrained Hierarchical Quasimetric Reinforcement Learning** [[Paper]](https://openreview.net/forum?id=5WhsCB0Vty)
+
+4. **Dual Goal Representations** [[Paper]](https://openreview.net/forum?id=aMKFTidLSM)
+
+5. **Graph-Theoretic Intrinsic Reward: Guiding RL with Effective Resistance** [[Paper]](https://openreview.net/forum?id=W8bKDPf1Ko)
+
+6. **Demystifying Emergent Exploration in Goal-Conditioned RL** [[Paper]](https://openreview.net/forum?id=mwgYORsqtv)
+
+7. **Occupancy Reward Shaping: Improving Credit Assignment for Offline Goal-Conditioned Reinforcement Learning** [[Paper]](https://openreview.net/forum?id=EW8DskWQ1K)
+
+8. **Strict Subgoal Execution: Reliable Long-Horizon Planning in Hierarchical Reinforcement Learning** [[Paper]](https://openreview.net/forum?id=cMpOvMuyYa)
+
+9. **Hierarchical Entity-centric Reinforcement Learning with Factored Subgoal Diffusion** [[Paper]](https://openreview.net/forum?id=TimC6hxVHj)
+
+10. **Translating Flow to Policy via Hindsight Online Imitation** [[Paper]](https://openreview.net/forum?id=dQ6d5bgXtM)
+
+11. **Self-Predictive Representations for Combinatorial Generalization in Behavioral Cloning** [[Paper]](https://openreview.net/forum?id=FkeURAdA0h)
 
 ### NeurIPS 2025
 
-1. **Hyper-GoalNet: Goal-Conditioned Manipulation Policy Learning with HyperNetworks**
+1. **Hyper-GoalNet: Goal-Conditioned Manipulation Policy Learning with HyperNetworks** [[Paper]](https://openreview.net/forum?id=aWWRPyGMie) [[Code]](https://github.com/wantingyao/hyper-goalnet)
 
-2. **Planning without Search: Refining Frontier LLMs with Offline Goal-Conditioned RL** [[Paper]](https://arxiv.org/abs/2505.18098)
+2. **Planning without Search: Refining Frontier LLMs with Offline Goal-Conditioned RL** [[Paper]](https://openreview.net/forum?id=kuoD6G0Suq) [[Paper]](https://arxiv.org/abs/2505.18098)
 
 3. **1000 Layer Networks for Self-Supervised RL: Scaling Depth Can Enable New Goal-Reaching Capabilities** [[Paper]](http://arxiv.org/abs/2503.14858) [[Code]](https://github.com/wang-kevin3290/scaling-crl)
 
-4. **Offline Goal Conditioned Reinforcement Learning with Temporal Distance Representations**
+4. **Offline Goal-conditioned Reinforcement Learning with Quasimetric Representations** [[Paper]](https://openreview.net/forum?id=P23UMiw7iJ)
 
-5. **Physics-informed Value Learner for Offline Goal-Conditioned Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2509.06782)
+5. **Physics-informed Value Learner for Offline Goal-Conditioned Reinforcement Learning** [[Paper]](https://openreview.net/forum?id=LRYgQuz7kY)
 
-6. **GoalLadder: Incremental Goal Discovery with Vision-Language Models** [[Paper]](https://arxiv.org/abs/2506.16396)
+6. **GoalLadder: Incremental Goal Discovery with Vision-Language Models** [[Paper]](https://openreview.net/forum?id=BiowiwzQaO)
 
-7. **Option-aware Temporally Abstracted Value for Offline Goal-Conditioned Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2505.12737)
+7. **Option-aware Temporally Abstracted Value for Offline Goal-Conditioned Reinforcement Learning** [[Paper]](https://openreview.net/forum?id=gfXBNBKx02)
 
-8. **Open-World Drone Active Tracking with Goal-Centered Rewards**
+8. **Open-World Drone Active Tracking with Goal-Centered Rewards** [[Paper]](https://openreview.net/forum?id=Ly2wXKIByI)
 
-9. **Learning from Demonstrations via Capability-Aware Goal Sampling** [[Paper]](https://herowanzhu.github.io/Cago.pdf)
+9. **Learning from Demonstrations via Capability-Aware Goal Sampling** [[Paper]](https://openreview.net/forum?id=NM5dprhsGK)
 
-10. **Horizon Reduction Makes Offline RL Scalable** [[Paper]](https://arxiv.org/abs/2506.04168) [[Code]](https://github.com/seohongpark/horizon-reduction)
+10. **Horizon Reduction Makes RL Scalable** [[Paper]](https://openreview.net/forum?id=hguaupzLCU) [[Code]](https://github.com/seohongpark/horizon-reduction)
 
 ### ICML 2025
 
