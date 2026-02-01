@@ -32,15 +32,19 @@
 
 7. Castanet N, Lamprier S, Sigaud O. **Stein Variational Goal Generation For Reinforcement Learning in Hard Exploration Problems**[C]//International Conference on Machine Learning. **ICML, 2023**. [[Paper]](https://openreview.net/forum?id=c0NG640B-LO)
 
-    `TL;DR: propose Stein Variational Goal Generation (SVGG), which samples goals of intermediate difficulty for the agent, by leveraging a learned predictive model of its goal reaching capabilities.`
+    `TL;DR: Propose Stein Variational Goal Generation (SVGG), which samples goals of intermediate difficulty for the agent, by leveraging a learned predictive model of its goal reaching capabilities.`
 
 8. Li Q, Zhai Y, Ma Y, et al. **Understanding the complexity gains of single-task rl with a curriculum**[C]//International Conference on Machine Learning. PMLR, 2023: 20412-20451. **ICML, 2023**. [[Paper]](https://proceedings.mlr.press/v202/li23as/li23as.pdf)
 
-    `TL;DR: provide a theoretical framework that reformulates a single-task RL problem as a multi-task RL problem defined by a curriculum.`
+    `TL;DR: Provide a theoretical framework that reformulates a single-task RL problem as a multi-task RL problem defined by a curriculum.`
 
 9. Nair A V, Pong V, Dalal M, et al. **Visual reinforcement learning with imagined goals**[C]. Advances in neural information processing systems, 2018, 31. **NeurIPS, 2018**. [[Paper]](https://proceedings.neurips.cc/paper/2018/file/7ec69dd44416c46745f6edd947b470cd-Paper.pdf)
 
     `TL;DR: Propose an algorithm that acquires general-purpose skills by combining unsupervised representation learning and reinforcement learning of goal-conditioned policies.`
+
+10. Narvekar S, Peng B, Leonetti M, et al. **Curriculum learning for reinforcement learning domains: A framework and survey**[J]. Journal of Machine Learning Research, 2020, 21(181): 1-50. [[Paper]](http://www.jmlr.org/papers/v21/20-212.html)
+
+    `TL;DR: Present a framework for curriculum learning (CL) in reinforcement learning, and use it to survey and classify existing CL methods in terms of their assumptions, capabilities, and goals.`
 
 ## 3. Sub-goal Generation
 
@@ -108,6 +112,8 @@
 
     `TL;DR: Propose self-supervising control on top of human teleoperated play data as a way to scale up skill learning, which tries to learn to organize play behaviors in a latent space, then reuse them at test time to achieve specific goals.`
 
+4. Xudong G, Dawei F, Xu K, et al. **Iterative regularized policy optimization with imperfect demonstrations**[C]//Forty-first International Conference on Machine Learning. 2024. [[Paper]](https://openreview.net/forum?id=Gp5F6qzwGK) [[Code]](https://github.com/GongXudong/IRPO)
+
 ## 8. Model-Based
 
 1. Hu E S, Chang R, Rybkin O, et al. **Planning Goals for Exploration**[C]//The Eleventh International Conference on Learning Representations. **ICLR, 2023**. [[Paper]](https://openreview.net/forum?id=6qeBuZSo7Pr)
@@ -136,6 +142,10 @@
 
     `TL;DR: Propose a graphical model framework for goal-conditioned RL, with an expectation maximization (EM) algorithm that operates on the lower bound of the rl objective.`
 
+2. Gong X, Yang S, Dawei F, et al. **Improving the Continuity of Goal-Achievement Ability via Policy Self-Regularization for Goal-Conditioned Reinforcement Learning**[C]//Forty-second International Conference on Machine Learning. [[Paper]](https://openreview.net/forum?id=xPMDwGL1TT) [[Code]](https://github.com/GongXudong/fly-craft-examples)
+
+    `TL;DR: Propose a margin-based policy self-regularization approach to improve the continuity of goal-achievement ability for goal-conditioned reinforcement learning.`
+
 ## 11. Metric Learning / Quasimetric Learning
 
 1. Hartikainen K, Geng X, Haarnoja T, et al. **Dynamical Distance Learning for Semi-Supervised and Unsupervised Skill Discovery**[C]//International Conference on Learning Representations. **ICLR, 2020**. [[Paper]](https://openreview.net/forum?id=H1lmhaVtvr)
@@ -157,3 +167,7 @@
 3. Niu Y, Jin S, Zhang Z, et al. **Goats: Goal sampling adaptation for scooping with curriculum reinforcement learning**[C]//2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2023: 1023-1030. **IROS, 2023**. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10342221)
 
     `TL;DR: Solve the task of robotic water scooping.`
+
+4. Gong X, Feng D, Xu K, et al. **V-pilot: A velocity vector control agent for fixed-wing uavs from imperfect demonstrations**[C]//2025 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2025: 11538-11545. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11128340/) [[Code]](https://github.com/GongXudong/fly-craft-examples)
+
+    `TL;DR: Make a 6-DoF fixed-wing UAV to achieve any given velocity vector.`

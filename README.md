@@ -122,13 +122,75 @@ This repo lists research papers on **Goal-Conditioned Reinforcement Learning**.
 
 1. Zheng C, Eysenbach B, Walke H R, et al. **Stabilizing Contrastive RL: Techniques for Robotic Goal Reaching from Offline Data**[C]//The Twelfth International Conference on Learning Representations. [[Paper]](https://openreview.net/forum?id=Xkf2EBj4w3)
 
+2. Sikchi H, Chitnis R, Touati A, et al. **Score models for offline goal-conditioned reinforcement learning**[C]//The Twelfth International Conference on Learning Representations. 2023. [[Paper]](https://openreview.net/forum?id=oXjnwQLcTA)
+
+### NeurIPS 2023
+
+1. Park S, Ghosh D, Eysenbach B, et al. **Hiql: Offline goal-conditioned rl with latent states as actions**[J]. Advances in Neural Information Processing Systems, 2023, 36: 34866-34891. [[Paper]](https://openreview.net/forum?id=cLQCCtVDuW)
+
+2. Bagatella M, Martius G. **Goal-conditioned offline planning from curious exploration**[J]. Advances in Neural Information Processing Systems, 2023, 36: 15358-15383. [[Paper]](https://openreview.net/forum?id=QlbZabgMdK)
+
+3. Qiu W, Mao W, Zhu H. **Instructing goal-conditioned reinforcement learning agents with temporal logic objectives**[J]. Advances in Neural Information Processing Systems, 2023, 36: 39147-39175. [[Paper]](https://openreview.net/forum?id=19AgWnmyoV)
+
+4. Zeng Z, Zhang C, Wang S, et al. **Goal-conditioned predictive coding for offline reinforcement learning**[J]. Advances in Neural Information Processing Systems, 2023, 36: 25528-25548. [[Paper]](https://openreview.net/forum?id=IJblKO45YU)
+
+### ICML 2023
+
+1. Yang R, Yong L, Ma X, et al. **What is essential for unseen goal generalization of offline goal-conditioned rl?**[C]//International Conference on Machine Learning. PMLR, 2023: 39543-39571. [[Paper]](https://openreview.net/forum?id=UrQySwOk4q)
+
 ### ICLR 2023
 
 1. Zhu D, Li L E, Elhoseiny M. **Value Memory Graph: A Graph-Structured World Model for Offline Reinforcement Learning**[C]//The Eleventh International Conference on Learning Representations. [[Paper]](https://openreview.net/forum?id=UYcIheNY9Pf)
 
+2. Kim J, Seo Y, Ahn S, et al. **Imitating Graph-Based Planning with Goal-Conditioned Policies**[C]//11th International Conference on Learning Representations, ICLR 2023. International Conference on Learning Representations, ICLR, 2023. [[Paper]](https://openreview.net/forum?id=6lUEy1J5R7p)
+
+3. Hu E S, Chang R, Rybkin O, et al. **Planning Goals for Exploration**[C]//The Eleventh International Conference on Learning Representations. [[Paper]](https://openreview.net/forum?id=6qeBuZSo7Pr)
+
+4. Ma Y J, Sodhani S, Jayaraman D, et al. **VIP: Towards Universal Visual Reward and Representation via Value-Implicit Pre-Training**[C]//The Eleventh International Conference on Learning Representations. [[Paper]](https://openreview.net/forum?id=YJ7o2wetJ2)
+
+### NeurIPS 2022
+
+1. Eysenbach B, Zhang T, Levine S, et al. **Contrastive learning as goal-conditioned reinforcement learning**[J]. Advances in Neural Information Processing Systems, 2022, 35: 35603-35620. [[Paper]](https://openreview.net/forum?id=vGQiU5sqUe3)
+
+2. Islam R, Zang H, Goyal A, et al. **Discrete compositional representations as an abstraction for goal conditioned reinforcement learning**[J]. Advances in Neural Information Processing Systems, 2022, 35: 3885-3899. [[Paper]](https://openreview.net/forum?id=N6zHSyChCF2)
+
+3. Ma J Y, Yan J, Jayaraman D, et al. **Offline goal-conditioned reinforcement learning via $ f $-advantage regression**[J]. Advances in neural information processing systems, 2022, 35: 310-323. [[Paper]](https://openreview.net/forum?id=_h29VprPHD)
+
+4. Ding W, Lin H, Li B, et al. **Generalizing goal-conditioned reinforcement learning with variational causal reasoning**[J]. Advances in Neural Information Processing Systems, 2022, 35: 26532-26548. [[Paper]](https://openreview.net/forum?id=ytnwPTrpl38)
+
+### ICML 2022
+
+1. Hansen-Estruch P, Zhang A, Nair A, et al. **Bisimulation makes analogies in goal-conditioned reinforcement learning**[C]//International Conference on Machine Learning. PMLR, 2022: 8407-8426. [[Paper]](https://openreview.net/forum?id=lKRKfJmA3N)
+
+### ICLR 2022
+
+1. Yang R, Lu Y, Li W, et al. **Rethinking Goal-Conditioned Supervised Learning and Its Connection to Offline RL**[C]//International Conference on Learning Representations. [[Paper]](https://openreview.net/forum?id=KJztlfGPdwW)
+
+2. Zhang T, Eysenbach B, Salakhutdinov R, et al. **C-Planning: An Automatic Curriculum for Learning Goal-Reaching Tasks**[C]//International Conference on Learning Representations. [[Paper]](https://openreview.net/forum?id=K2JfSnLBD9)
+
+### NeurIPS 2021
+
+1. Hoang C, Sohn S, Choi J, et al. **Successor feature landmarks for long-horizon goal-conditioned reinforcement learning**[J]. Advances in neural information processing systems, 2021, 34: 26963-26975. [[Paper]](https://openreview.net/forum?id=rD6ulZFTbf)
+
+### ICML 2021
+
+1. Chane-Sane E, Schmid C, Laptev I. **Goal-conditioned reinforcement learning with imagined subgoals**[C]//International conference on machine learning. PMLR, 2021: 1430-1440. [[Paper]](https://openreview.net/forum?id=k57IuELNb-Y)
+
+### ICLR 2021
+
+1. Eysenbach B, Salakhutdinov R, Levine S. **C-Learning: Learning to Achieve Goals via Recursive Classification**[C]//International Conference on Learning Representations. [[Paper]](https://openreview.net/forum?id=tc5qisoB-C)
+
+### ICML 2020
+
+1. Pitis S, Chan H, Zhao S, et al. Maximum entropy gain exploration for long horizon multi-goal reinforcement learning[C]//International conference on machine learning. PMLR, 2020: 7750-7761. [[Paper]](https://proceedings.mlr.press/v119/pitis20a.html)
+
 ### NeurIPS 2019
 
 1. Eysenbach B, Salakhutdinov R R, Levine S. **Search on the replay buffer: Bridging planning and reinforcement learning**[J]. Advances in neural information processing systems, 2019, 32. [[Paper]](https://proceedings.neurips.cc/paper/2019/hash/5c48ff18e0a47baaf81d8b8ea51eec92-Abstract.html)
+
+### ICML 2019
+
+1. Zhao R, Sun X, Tresp V. **Maximum entropy-regularized multi-goal reinforcement learning**[C]//International Conference on Machine Learning. PMLR, 2019: 7553-7562. [[Paper]](https://openreview.net/forum?id=S1EbdsWuZr)
 
 ## GCRL environments
 
