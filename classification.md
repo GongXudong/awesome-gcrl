@@ -4,6 +4,10 @@
 
 1. Liu M, Zhu M, Zhang W. **Goal-conditioned reinforcement learning: Problems and solutions**[C]. International Joint Conference on Artificial Intelligence. **IJCAI, 2022**. [[Paper]](https://arxiv.org/abs/2201.08299) [[Code]](https://github.com/apexrl/GCRL-Collection)
 
+2. Bortkiewicz M, Pałucki W, Myers V, et al. **Accelerating Goal-Conditioned Reinforcement Learning Algorithms and Research**[C]//The Thirteenth International Conference on Learning Representations. [[Paper]](https://openreview.net/forum?id=4gaySj8kvX) [[Code]](https://github.com/MichalBortkiewicz/JaxGCRL)
+
+3. Plappert M, Andrychowicz M, Ray A, et al. **Multi-goal reinforcement learning: Challenging robotics environments and request for research**[J]. arxiv preprint arxiv:1802.09464, 2018. [[Paper]](https://arxiv.org/abs/1802.09464)
+
 ## 2. Curriculum Learning
 
 1. Gong X, Feng D, Xu K, et al. **Goal-Conditioned On-Policy Reinforcement Learning**[C]//The Thirty-eighth Annual Conference on Neural Information Processing Systems. **NeurIPS, 2024**. [[Paper]](https://openreview.net/forum?id=KP7EUORJYI) [[Code]](https://github.com/GongXudong/GCPO)
@@ -80,13 +84,15 @@
 
 3. Zheng C, Eysenbach B, Walke H R, et al. **Stabilizing Contrastive RL: Techniques for Robotic Goal Reaching from Offline Data**[C]//The Twelfth International Conference on Learning Representations. [[Paper]](https://openreview.net/forum?id=Xkf2EBj4w3)
 
-4. Ke K, Lin Q, Liu Z, et al. Conservative Offline Goal-Conditioned Implicit V-Learning[C]//Forty-second International Conference on Machine Learning. **ICML, 2025**. [[Paper]](https://openreview.net/forum?id=5ryn8tYWHL)
+4. Ke K, Lin Q, Liu Z, et al. **Conservative Offline Goal-Conditioned Implicit V-Learning**[C]//Forty-second International Conference on Machine Learning. **ICML, 2025**. [[Paper]](https://openreview.net/forum?id=5ryn8tYWHL)
 
-5. He J, Li K, Zang Y, et al. Goal-Oriented Skill Abstraction for Offline Multi-Task Reinforcement Learning[C]//Forty-second International Conference on Machine Learning. **ICML, 2025**. [[Paper]](https://openreview.net/forum?id=ZeetWz8zbG)
+5. He J, Li K, Zang Y, et al. **Goal-Oriented Skill Abstraction for Offline Multi-Task Reinforcement Learning**[C]//Forty-second International Conference on Machine Learning. **ICML, 2025**. [[Paper]](https://openreview.net/forum?id=ZeetWz8zbG)
 
 ## 6. Supervised / Imitation
 
 1. Ghosh D, Gupta A, Reddy A, et al. **Learning to Reach Goals via Iterated Supervised Learning**[C]//International Conference on Learning Representations. **ICLR, 2021**. [[Paper]](https://openreview.net/forum?id=rALA0Xo6yNJ) [[Code]](https://github.com/dibyaghosh/gcsl)
+
+    `TL;DR: GCSL`
 
 2. Yang R, Lu Y, Li W, et al. **Rethinking Goal-Conditioned Supervised Learning and Its Connection to Offline RL**[C]//International Conference on Learning Representations. **ICLR, 2022**. [[Paper]](https://openreview.net/forum?id=KJztlfGPdwW) [[Code]](https://github.com/YangRui2015/AWGCSL)
 
@@ -94,13 +100,21 @@
 
     `TL;DR: GAIL + HER`
 
-4. Ghosh D, Gupta A, Reddy A, et al. Learning to Reach Goals via Iterated Supervised Learning[C]//International Conference on Learning Representations.
+4. Ghosh D, Gupta A, Reddy A, et al. **Learning to Reach Goals via Iterated Supervised Learning**[C]//International Conference on Learning Representations.
 
-    `TL;DR: Alternate between sampling trajectories and  Goal-conditioned behavioral cloning (Goal-Conditioned Supervised Learning, GCSL)`
+    `TL;DR: Alternate between sampling trajectories and Goal-conditioned behavioral cloning (Goal-Conditioned Supervised Learning, GCSL).`
 
-5. Eysenbach B, Udatha S, Salakhutdinov R R, et al. **Imitating past successes can be very suboptimal**[C]. Advances in Neural Information Processing Systems, 2022, 35: 6047-6059.
+5. Eysenbach B, Zhang T, Levine S, et al. **Contrastive learning as goal-conditioned reinforcement learning**[J]. Advances in Neural Information Processing Systems, 2022, 35: 35603-35620. [[Paper]](https://openreview.net/forum?id=vGQiU5sqUe3)
+
+    `TL;DR: Apply contrastive representation learning to action-labeled trajectories, in such a way that the (inner product of) learned representations exactly corresponds to a goal-conditioned value function.`
+
+6. Eysenbach B, Udatha S, Salakhutdinov R R, et al. **Imitating past successes can be very suboptimal**[C]. Advances in Neural Information Processing Systems, 2022, 35: 6047-6059.
 
     `TL;DR: Normalized GCSL`
+
+7. Wang K, Javali I, Bortkiewicz M Ĺ, et al. **1000 Layer Networks for Self-Supervised RL: Scaling Depth Can Enable New Goal-Reaching Capabilities**. Advances in Neural Information Processing Systems, 2025. [[Paper]](http://arxiv.org/abs/2503.14858) [[Code]](https://github.com/wang-kevin3290/scaling-crl)
+
+    `TL;DR: Scaling Laws for network depth on the self-supervised contrastive RL.`
 
 ## 7. Unsupervised RL / Pre-train
 
@@ -114,11 +128,13 @@
 
 4. Xudong G, Dawei F, Xu K, et al. **Iterative regularized policy optimization with imperfect demonstrations**[C]//Forty-first International Conference on Machine Learning. 2024. [[Paper]](https://openreview.net/forum?id=Gp5F6qzwGK) [[Code]](https://github.com/GongXudong/IRPO)
 
+    `TL;DR: Propose Iterative Regularized Policy Optimization to solve the over-constrained exploration problem and the primacy bias problem in offline-to-online learning. The proposed method alternatively (1) optimize policy offline from demonstrations; (2) continue optimizing online from interactions from environments; (3) boost demonstrations with trained policies.`
+
 ## 8. Model-Based
 
 1. Hu E S, Chang R, Rybkin O, et al. **Planning Goals for Exploration**[C]//The Eleventh International Conference on Learning Representations. **ICLR, 2023**. [[Paper]](https://openreview.net/forum?id=6qeBuZSo7Pr)
 
-2. Richens J, Everitt T, Abel D. General agents need world models[C]//Forty-second International Conference on Machine Learning. [[Paper]](https://openreview.net/forum?id=dlIoumNiXt)
+2. Richens J, Everitt T, Abel D. **General agents need world models**[C]//Forty-second International Conference on Machine Learning. [[Paper]](https://openreview.net/forum?id=dlIoumNiXt)
 
 ## 9. Exploration
 

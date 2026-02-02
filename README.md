@@ -182,7 +182,7 @@ This repo lists research papers on **Goal-Conditioned Reinforcement Learning**.
 
 ### ICML 2020
 
-1. Pitis S, Chan H, Zhao S, et al. Maximum entropy gain exploration for long horizon multi-goal reinforcement learning[C]//International conference on machine learning. PMLR, 2020: 7750-7761. [[Paper]](https://proceedings.mlr.press/v119/pitis20a.html)
+1. Pitis S, Chan H, Zhao S, et al. **Maximum entropy gain exploration for long horizon multi-goal reinforcement learning**[C]//International conference on machine learning. PMLR, 2020: 7750-7761. [[Paper]](https://proceedings.mlr.press/v119/pitis20a.html)
 
 ### NeurIPS 2019
 
