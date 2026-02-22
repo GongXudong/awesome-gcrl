@@ -6,49 +6,49 @@ This repo lists research papers on **Goal-Conditioned Reinforcement Learning**.
 
 ### ICLR 2026
 
-1. **RD-HRL: Generating Reliable Sub-Goals for Long-Horizon Sparse-Reward Tasks** [[Paper]](https://openreview.net/forum?id=5E5sd3TWGD)
+1. Shan Y, Liu H, Long T, et al. **RD-HRL: Generating Reliable Sub-Goals for Long-Horizon Sparse-Reward Tasks**[C]//The Fourteenth International Conference on Learning Representations. [[Paper]](https://openreview.net/forum?id=5E5sd3TWGD)
 
-2. **Scaling Goal-conditioned Reinforcement Learning with Multistep Quasimetric Distances** [[Paper]](https://openreview.net/forum?id=UElh7vzgKX)
+2. Zheng B, Myers V, Eysenbach B, et al. **Scaling Goal-conditioned Reinforcement Learning with Multistep Quasimetric Distances**[C]//The Fourteenth International Conference on Learning Representations. [[Paper]](https://openreview.net/forum?id=UElh7vzgKX)
 
 3. **Goal Reaching with Eikonal-Constrained Hierarchical Quasimetric Reinforcement Learning** [[Paper]](https://openreview.net/forum?id=5WhsCB0Vty)
 
-4. **Dual Goal Representations** [[Paper]](https://openreview.net/forum?id=aMKFTidLSM)
+4. Park S, Mann D, Levine S. **Dual Goal Representations**[C].//The Fourteenth International Conference on Learning Representations. [[Paper]](https://openreview.net/forum?id=aMKFTidLSM)
 
 5. **Graph-Theoretic Intrinsic Reward: Guiding RL with Effective Resistance** [[Paper]](https://openreview.net/forum?id=W8bKDPf1Ko)
 
-6. **Demystifying Emergent Exploration in Goal-Conditioned RL** [[Paper]](https://openreview.net/forum?id=mwgYORsqtv)
+6. Bastankhah M, Liu G, Arumugam D, et al. **Demystifying Emergent Exploration in Goal-Conditioned RL**[C]//The Fourteenth International Conference on Learning Representations. [[Paper]](https://openreview.net/forum?id=mwgYORsqtv)
 
-7. **Occupancy Reward Shaping: Improving Credit Assignment for Offline Goal-Conditioned Reinforcement Learning** [[Paper]](https://openreview.net/forum?id=EW8DskWQ1K)
+7. Venugopal A, Chen J, Wu X, et al. **Occupancy Reward Shaping: Improving Credit Assignment for Offline Goal-Conditioned Reinforcement Learning**[C]//The Fourteenth International Conference on Learning Representations. [[Paper]](https://openreview.net/forum?id=EW8DskWQ1K)
 
-8. **Strict Subgoal Execution: Reliable Long-Horizon Planning in Hierarchical Reinforcement Learning** [[Paper]](https://openreview.net/forum?id=cMpOvMuyYa)
+8. Hwang J, Lee S, Kim J, et al. **Strict Subgoal Execution: Reliable Long-Horizon Planning in Hierarchical Reinforcement Learning**[C].//The Fourteenth International Conference on Learning Representations. [[Paper]](https://openreview.net/forum?id=cMpOvMuyYa)
 
-9. **Hierarchical Entity-centric Reinforcement Learning with Factored Subgoal Diffusion** [[Paper]](https://openreview.net/forum?id=TimC6hxVHj)
+9. Haramati D, Qi C, Daniel T, et al. **Hierarchical Entity-centric Reinforcement Learning with Factored Subgoal Diffusion**[C].//The Fourteenth International Conference on Learning Representations. [[Paper]](https://openreview.net/forum?id=TimC6hxVHj)
 
-10. **Translating Flow to Policy via Hindsight Online Imitation** [[Paper]](https://openreview.net/forum?id=dQ6d5bgXtM)
+10. Zheng Y, Ye Z, Dong W, et al. **Translating Flow to Policy via Hindsight Online Imitation**[C].//The Fourteenth International Conference on Learning Representations. [[Paper]](https://openreview.net/forum?id=dQ6d5bgXtM)
 
 11. **Self-Predictive Representations for Combinatorial Generalization in Behavioral Cloning** [[Paper]](https://openreview.net/forum?id=FkeURAdA0h)
 
 ### NeurIPS 2025
 
-1. **Hyper-GoalNet: Goal-Conditioned Manipulation Policy Learning with HyperNetworks** [[Paper]](https://openreview.net/forum?id=aWWRPyGMie) [[Code]](https://github.com/wantingyao/hyper-goalnet)
+1. Zhou P, Yao W, Luo Q, et al. **Hyper-GoalNet: Goal-Conditioned Manipulation Policy Learning with HyperNetworks**[C].//The Thirty-ninth Annual Conference on Neural Information Processing Systems. 2025. [[Paper]](https://openreview.net/forum?id=aWWRPyGMie) [[Code]](https://github.com/wantingyao/hyper-goalnet)
 
-2. **Planning without Search: Refining Frontier LLMs with Offline Goal-Conditioned RL** [[Paper]](https://openreview.net/forum?id=kuoD6G0Suq) [[Paper]](https://arxiv.org/abs/2505.18098)
+2. Hong J, Dragan A, Levine S. **Planning without Search: Refining Frontier LLMs with Offline Goal-Conditioned RL**[C]//The Thirty-ninth Annual Conference on Neural Information Processing Systems. 2025. [[Paper]](https://openreview.net/forum?id=kuoD6G0Suq) [[Paper]](https://arxiv.org/abs/2505.18098)
 
-3. **1000 Layer Networks for Self-Supervised RL: Scaling Depth Can Enable New Goal-Reaching Capabilities** [[Paper]](http://arxiv.org/abs/2503.14858) [[Code]](https://github.com/wang-kevin3290/scaling-crl)
+3. Wang K, Javali I, Bortkiewicz M, et al. **1000 Layer Networks for Self-Supervised RL: Scaling Depth Can Enable New Goal-Reaching Capabilities**[C]//The Thirty-ninth Annual Conference on Neural Information Processing Systems. 2025. [[Paper]](http://arxiv.org/abs/2503.14858) [[Code]](https://github.com/wang-kevin3290/scaling-crl)
 
-4. **Offline Goal-conditioned Reinforcement Learning with Quasimetric Representations** [[Paper]](https://openreview.net/forum?id=P23UMiw7iJ)
+4. Myers V, Zheng B, Eysenbach B, et al. **Offline Goal-conditioned Reinforcement Learning with Quasimetric Representations**[C]//The Thirty-ninth Annual Conference on Neural Information Processing Systems. 2025. [[Paper]](https://openreview.net/forum?id=P23UMiw7iJ)
 
-5. **Physics-informed Value Learner for Offline Goal-Conditioned Reinforcement Learning** [[Paper]](https://openreview.net/forum?id=LRYgQuz7kY)
+5. Giammarino V, Ni R, Qureshi A H. **Physics-informed Value Learner for Offline Goal-Conditioned Reinforcement Learning**[C]//The Thirty-ninth Annual Conference on Neural Information Processing Systems. 2025. [[Paper]](https://openreview.net/forum?id=LRYgQuz7kY)
 
-6. **GoalLadder: Incremental Goal Discovery with Vision-Language Models** [[Paper]](https://openreview.net/forum?id=BiowiwzQaO)
+6. Zakharov A, Whiteson S. **GoalLadder: Incremental Goal Discovery with Vision-Language Models**[C]//The Thirty-ninth Annual Conference on Neural Information Processing Systems. 2025. [[Paper]](https://openreview.net/forum?id=BiowiwzQaO)
 
-7. **Option-aware Temporally Abstracted Value for Offline Goal-Conditioned Reinforcement Learning** [[Paper]](https://openreview.net/forum?id=gfXBNBKx02)
+7. Ahn H, Choi H, Han J, et al. **Option-aware Temporally Abstracted Value for Offline Goal-Conditioned Reinforcement Learning**[C]//The Thirty-ninth Annual Conference on Neural Information Processing Systems. 2025. [[Paper]](https://openreview.net/forum?id=gfXBNBKx02)
 
-8. **Open-World Drone Active Tracking with Goal-Centered Rewards** [[Paper]](https://openreview.net/forum?id=Ly2wXKIByI)
+8. Sun H, Hu J, Zhang Z, et al. **Open-World Drone Active Tracking with Goal-Centered Rewards**[C]//The Thirty-ninth Annual Conference on Neural Information Processing Systems. 2025. [[Paper]](https://openreview.net/forum?id=Ly2wXKIByI)
 
-9. **Learning from Demonstrations via Capability-Aware Goal Sampling** [[Paper]](https://openreview.net/forum?id=NM5dprhsGK)
+9. Duan Y, Wang Y, Qiu W, et al. **Learning from Demonstrations via Capability-Aware Goal Sampling**[C]//The Thirty-ninth Annual Conference on Neural Information Processing Systems. 2025. [[Paper]](https://openreview.net/forum?id=NM5dprhsGK)
 
-10. **Horizon Reduction Makes RL Scalable** [[Paper]](https://openreview.net/forum?id=hguaupzLCU) [[Code]](https://github.com/seohongpark/horizon-reduction)
+10. Park S, Frans K, Mann D, et al. **Horizon Reduction Makes RL Scalable**[C]//The Thirty-ninth Annual Conference on Neural Information Processing Systems. 2025. [[Paper]](https://openreview.net/forum?id=hguaupzLCU) [[Code]](https://github.com/seohongpark/horizon-reduction)
 
 ### ICML 2025
 
