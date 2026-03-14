@@ -180,6 +180,9 @@ This repo lists research papers on **Goal-Conditioned Reinforcement Learning**.
 
 1. Eysenbach B, Salakhutdinov R, Levine S. **C-Learning: Learning to Achieve Goals via Recursive Classification**[C]//International Conference on Learning Representations. [[Paper]](https://openreview.net/forum?id=tc5qisoB-C)
 
+### NeurIPS 2020
+1. Nangue Tasse, G., James, S., & Rosman, B. (2020). A Boolean Task Algebra for Reinforcement Learning. In H. Larochelle et al. (Eds.), Advances in Neural Information Processing Systems (Vol. 33, pp. 9497–9507) [[Paper]](https://openreview.net/forum?id=rJecbgHtDH) [[Code]](https://github.com/geraudnt/boolean_composition)
+
 ### ICML 2020
 
 1. Pitis S, Chan H, Zhao S, et al. **Maximum entropy gain exploration for long horizon multi-goal reinforcement learning**[C]//International conference on machine learning. PMLR, 2020: 7750-7761. [[Paper]](https://proceedings.mlr.press/v119/pitis20a.html)
