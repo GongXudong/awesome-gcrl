@@ -32,7 +32,7 @@ This repo lists research papers on **Goal-Conditioned Reinforcement Learning**.
 
 1. Zhou P, Yao W, Luo Q, et al. **Hyper-GoalNet: Goal-Conditioned Manipulation Policy Learning with HyperNetworks**[C].//The Thirty-ninth Annual Conference on Neural Information Processing Systems. 2025. [[Paper]](https://openreview.net/forum?id=aWWRPyGMie) [[Code]](https://github.com/wantingyao/hyper-goalnet)
 
-2. Hong J, Dragan A, Levine S. **Planning without Search: Refining Frontier LLMs with Offline Goal-Conditioned RL**[C]//The Thirty-ninth Annual Conference on Neural Information Processing Systems. 2025. [[Paper]](https://openreview.net/forum?id=kuoD6G0Suq) [[Paper]](https://arxiv.org/abs/2505.18098)
+2. Hong J, Dragan A, Levine S. **Planning without Search: Refining Frontier LLMs with Offline Goal-Conditioned RL**[C]//The Thirty-ninth Annual Conference on Neural Information Processing Systems. 2025. [[Paper]](https://openreview.net/forum?id=kuoD6G0Suq)
 
 3. Wang K, Javali I, Bortkiewicz M, et al. **1000 Layer Networks for Self-Supervised RL: Scaling Depth Can Enable New Goal-Reaching Capabilities**[C]//The Thirty-ninth Annual Conference on Neural Information Processing Systems. 2025. [[Paper]](http://arxiv.org/abs/2503.14858) [[Code]](https://github.com/wang-kevin3290/scaling-crl)
 
